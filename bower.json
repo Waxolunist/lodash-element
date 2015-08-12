@@ -7,6 +7,7 @@
   "description": "Webcomponent for importing lodash and supporting sharing of lodash, if more than one component uses lodash.",
   "keywords": [
     "Polymer",
+    "web-components",
     "webcomponent",
     "element",
     "lodash",
