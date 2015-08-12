@@ -1,0 +1,30 @@
+{
+  "name": "lodash-element",
+  "version": "1.0.0",
+  "authors": [
+    "Christian Sterzl <christian.sterzl@gmail.com>"
+  ],
+  "description": "De-dupe the Import of Lodash with HTML Imports, useful for Polymer projects.",
+  "keywords": [
+    "Polymer",
+    "de-dupe",
+    "lodash",
+    "import",
+    "js",
+    "javascript",
+    "library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "*"
+  },
+  "homepage": "https://github.com/Waxolunist/lodash-element",
+  "main": "lodash.js.html"
+}
