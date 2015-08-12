@@ -4,10 +4,11 @@
   "authors": [
     "Christian Sterzl <christian.sterzl@gmail.com>"
   ],
-  "description": "De-dupe the Import of Lodash with HTML Imports, useful for Polymer projects.",
+  "description": "Webcomponent for importing lodash and supporting sharing of lodash, if more than one component uses lodash.",
   "keywords": [
     "Polymer",
-    "de-dupe",
+    "webcomponent",
+    "element",
     "lodash",
     "import",
     "js",
